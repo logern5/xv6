@@ -125,6 +125,7 @@ void copy_coreutils(uint binino)
   copy_file(binino, "coreutils/df");
   copy_file(binino, "coreutils/dmesg");
   copy_file(binino, "coreutils/echo");
+  copy_file(binino, "coreutils/ed");
   copy_file(binino, "coreutils/false");
   copy_file(binino, "coreutils/hostname");
   copy_file(binino, "coreutils/kill");

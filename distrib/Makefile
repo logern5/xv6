@@ -38,6 +38,7 @@ DISTRIB_COREUTILS =    \
 	coreutils/umount   \
 	coreutils/uname    \
 	coreutils/init     \
+	coreutils/ed
 
 DISTRIB_ULIBC = ulibc/ulibc.o
 

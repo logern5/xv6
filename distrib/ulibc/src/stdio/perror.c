@@ -3,6 +3,6 @@
 
 void perror(const char* s)
 {
-  assert(0 && "not implemented yet.");
+  fprintf(stderr, "perror(): %s\n", s);
 }
 
